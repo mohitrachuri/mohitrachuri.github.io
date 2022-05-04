@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.782fabcb.css",
+    "main.css": "/static/css/main.8ae23134.css",
     "main.js": "/static/js/main.d17f2375.js",
     "static/media/MyPic.png": "/static/media/MyPic.b0ede09334513b8e7c32.png",
     "static/media/UMD.jpg": "/static/media/UMD.9998a2bbf1619cd9d1df.jpg",
@@ -8,11 +8,11 @@
     "static/media/Mohit-Resume.pdf": "/static/media/Mohit-Resume.9225bb9551c90fb35202.pdf",
     "static/media/SRM.jpg": "/static/media/SRM.76244449634d0289d18e.jpg",
     "index.html": "/index.html",
-    "main.782fabcb.css.map": "/static/css/main.782fabcb.css.map",
+    "main.8ae23134.css.map": "/static/css/main.8ae23134.css.map",
     "main.d17f2375.js.map": "/static/js/main.d17f2375.js.map"
   },
   "entrypoints": [
-    "static/css/main.782fabcb.css",
+    "static/css/main.8ae23134.css",
     "static/js/main.d17f2375.js"
   ]
 }
